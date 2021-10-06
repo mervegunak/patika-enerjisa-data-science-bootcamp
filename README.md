@@ -1,0 +1,1 @@
+# patika-enerjisa-data-science-bootcamp
