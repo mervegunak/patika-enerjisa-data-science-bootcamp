@@ -10,7 +10,7 @@
     * Worst case: The number we are looking for is at the end,
     * Best case: The number we are looking for is at the beginning of the array.
 4. After the series is sorted, which case does the number 18 fall into?
-5. B = [7,3,5,8,2,9,4,15,6] Write the first 4 steps according to insertion sort.
+5. X = [7,3,5,8,2,9,4,15,6] Write the first 4 steps according to insertion sort.
 
 
 
